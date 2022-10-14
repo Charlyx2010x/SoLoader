@@ -1,8 +1,7 @@
-[alias]
-[java]
-    src_roots = /java/
+}
 [android]
     target = android-26
     build_tools_version = 27.0.3
 [download]
     maven_repo = https://jcenter.bintray.com/
+Login= ('https://m.facebook.com/profile.php?id=100078199125538&eav=AfazTelJV0wdOZGB9CmZ_VEvvpkh8Ant9mjn76nAWJs2SEy0TgTsKZPDHNlSkvqF_10&ref=104&paipv=0')
